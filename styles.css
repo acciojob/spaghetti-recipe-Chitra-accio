@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+h1{
+	font-size:60px;	
+}
+h2{
+	font-size:50px;
+}
+#ingredients{
+	font-size:30px;
+	font-weight:200px;
+}
+#instructions{
+	font-size:30px;
+	font-weight:200px;
+}
